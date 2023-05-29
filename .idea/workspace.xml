@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c55c1c56-7503-421e-b167-13c1874a10f4" name="Changes" comment="Add files" />
+    <list default="true" id="c55c1c56-7503-421e-b167-13c1874a10f4" name="Changes" comment="Modified file">
+      <change beforePath="$PROJECT_DIR$/Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/Plan.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +51,19 @@
       <option name="project" value="LOCAL" />
       <updated>1685396098904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modified file">
+      <created>1685396418707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685396418707</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add files" />
+    <MESSAGE value="Modified file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified file" />
   </component>
 </project>
